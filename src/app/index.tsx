@@ -12,8 +12,6 @@ export default function Index() {
         flex: 1,
         padding: 40,
         gap: 40,
-        borderWidth: 1,
-        borderColor: "red",
       }}
     >
       <Welcome />
